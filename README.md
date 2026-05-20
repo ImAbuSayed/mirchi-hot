@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirchi-hot/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Mirchi Hot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirchi-hot/) |
+| **Get License** | [Commercial Licensing for Mirchi Hot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirchi-hot/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhaan ch nasha tere nitt chad da, feel so fly
+> Naina naal takkda haan, ain't gonna lie
+> Raatan nu main jaagda te labhda haan tera chain
+> Dil vich mere nitt vajda ae tera name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

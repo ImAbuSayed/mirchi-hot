@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirchi-hot/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Mirchi Hot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirchi-hot/) |
+| **Get License** | [Get License For Mirchi Hot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirchi-hot/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9b163c77a4f5d9770e29fc140d6c8688b940b42f8573591ed309be18b7d15c71` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirchi Hot
+
+This log tracks the cryptographic history and versioning for the song **Mirchi Hot** (mirchi-hot).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T21:24:21.372477 | `v1` | `9b163c77a4f5d9770e29fc140d6c8688b940b42f8573591ed309be18b7d15c71` | `217111f516278813b95aab1b333c8ed4e5e819a9e7b6011749a421adfb6288b1` | `2026-05-20_mirchi-hot-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
